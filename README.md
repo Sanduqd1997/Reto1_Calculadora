@@ -1,16 +1,9 @@
-# reto1
+# Reto1
 
-A new Flutter project.
+Reto 1 Ciclo 4B Desarrollo Dispositivos Moviles 
 
-## Getting Started
+Autor: Humberto Rosales
 
-This project is a starting point for a Flutter application.
+#Demo
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="[https://user-images.githubusercontent.com/4458129/173209201-ecf02c3e-8571-42a0-92d5-5a9111f5b3b0.gif](https://github.com/Sanduqd1997/Reto1_Calculadora/blob/main/demo-calculadora.gif)" width="300" />
